@@ -9,7 +9,7 @@
   * Guild Wars 2
   
 - 🌱 I’m currently learning
-  * How to document mij scripts
+  * How to document my scripts
   * How to "finish" a program
   * Anything that is helpful in an industrial env. (Machine Vision, Data Prep, ...)
   
