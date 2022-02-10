@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrtSnsn [Bert Sansen]
   * Belgium, Aalter based
-  * Engineer @ Orac Decor
+  * Process Engineer @ Orac Decor
   
 - 👀 I’m interested in 
   * Python
@@ -11,10 +11,10 @@
 - 🌱 I’m currently learning
   * How to document my scripts
   * How to "finish" a program
-  * Anything that is helpful in an industrial env. (Machine Vision, Data Prep, ...)
+  * Anything that is helpful in an industrial env. (Data science, sensors, ...)
   
 - 💞️ I’m looking to collaborate on
-  * I don't think I'm skilled enough for doing collabs
+  * Any feedback regarding code is welcome
   
 - 📫 How to reach me 
   * LinkedIn
