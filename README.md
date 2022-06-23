@@ -14,10 +14,11 @@ Lean Six Sigma Green Belt -- Black Belt candidate
 
 
 ## Hobbies
+* Trips with my family
 * Browsing the web for some nice new indie games
 * Guild Wars 2
 * Playing around with my longsboard/surfskate
-* Trips with my family
+
 
 
 My linkedin profile:
