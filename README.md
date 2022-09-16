@@ -4,7 +4,7 @@ Bert Sansen<br />
 Lives in Aalter - Belgium<br />
 Background: industrial engineer Chemistry<br />
 
-Lean Six Sigma Green Belt -- Black Belt candidate
+Lean Six Sigma Black Belt Engineer
 
 ## Interests:
 - Python
